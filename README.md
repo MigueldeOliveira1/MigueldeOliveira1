@@ -1,3 +1,4 @@
+![imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjypX1LBrimrkLdBRiS5_QM0LBnfbo-u5TtDtaguTLEw&s=10)
 # Olá! Eu sou o Miguel 
 
 💻 Estudante de Técnico em Informática para Internet  
