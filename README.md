@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou o Miguel 
 
-<!--
-**MigueldeOliveira1/MigueldeOliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Técnico em Informática para Internet  
+☁️ Atualmente estudando AWS Cloud  
+🚀 Aprendendo e desenvolvendo projetos na área de tecnologia.
 
-Here are some ideas to get you started:
+##  Tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+- AWS
+
+##  Atualmente estudando
+
+- Desenvolvimento Web
+- Cloud Computing (AWS)
+- Banco de Dados
+
+##  Objetivos
+
+Aprimorar minhas habilidades em programação, desenvolver projetos práticos e crescer profissionalmente na área de tecnologia.
+
+## Projetos
+
+Confira meus repositórios aqui no GitHub!
+
+---
+
+ Obrigado por visitar meu perfil!
